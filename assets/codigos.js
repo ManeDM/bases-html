@@ -1,0 +1,1 @@
+console.log("Hola, La vaca aprendio a convocar codigo JS desde HTML")
